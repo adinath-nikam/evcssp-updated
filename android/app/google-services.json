@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149706748013",
+    "project_id": "evcssp-india",
+    "storage_bucket": "evcssp-india.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149706748013:android:bdd4aef8340d6447c60f64",
+        "android_client_info": {
+          "package_name": "com.adinathnikam.evcssp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBle-P-TPcD61TgdhrtSJi8eO4AmIeCYl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
